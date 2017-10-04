@@ -1,0 +1,2 @@
+# ternup
+Functional ternaries
