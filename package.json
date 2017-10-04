@@ -1,0 +1,26 @@
+{
+  "name": "ternup",
+  "version": "1.0.0",
+  "description": "Functional ternaries",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WarbyParker/ternup.git"
+  },
+  "keywords": [
+    "ternary",
+    "css-in-js"
+  ],
+  "author": "Dave Garwacke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WarbyParker/ternup/issues"
+  },
+  "homepage": "https://github.com/WarbyParker/ternup#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
