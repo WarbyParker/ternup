@@ -15,7 +15,7 @@
     "css-in-js"
   ],
   "author": "Dave Garwacke",
-  "license": "ISC",
+  "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/WarbyParker/ternup/issues"
   },
